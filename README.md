@@ -7,3 +7,5 @@ https://www.postman.com/dark-zodiac-2353293/workspace/my-workspace/request/46157
 
 Коллекция Тест SOAP-сервисов
 https://www.postman.com/dark-zodiac-2353293/workspace/my-workspace/request/46157688-b50891f6-b725-49a9-9389-3e0213190db5?action=share&creator=46157688&ctx=documentation&active-environment=46157688-c7b32ed1-710e-49af-9e6f-383477c306be
+
+Файл с тест-кейсами для методов GET, POST, PUT, PATCH, DELETE загружен в корень репозитория под названием G101-2025-10-06.
